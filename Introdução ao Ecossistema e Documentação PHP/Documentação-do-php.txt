@@ -1,0 +1,1 @@
+-> Link da Documentação do PHP: https://www.php.net/manual/pt_BR/

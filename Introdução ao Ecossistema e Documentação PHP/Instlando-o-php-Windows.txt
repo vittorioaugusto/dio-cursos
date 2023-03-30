@@ -1,0 +1,2 @@
+-> Link para baixar o PHP: https://www.php.net/downloads
+-> Link para baixar o XAMPP: https://www.apachefriends.org/pt_br/download.html
